@@ -1,7 +1,7 @@
 {
     "responseOverrides": {
       "404": {
-        "rewrite": "/dist/",
+        "rewrite": "/page-error-404-1.html",
         "statusCode": 200
       }
     }
