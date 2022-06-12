@@ -1,6 +1,6 @@
 {
     "responseOverrides": {
-      "404": {
+      "": {
         "rewrite": "/page-error-404-1.html",
         "statusCode": 200
       }
