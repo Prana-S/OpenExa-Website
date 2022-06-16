@@ -17698,7 +17698,7 @@ body {
 }
 
 .text-uppercase-expanded, .navbar .dropdown-menu .dropdown-header {
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.125em;
   text-transform: uppercase;
 }
