@@ -36,7 +36,7 @@
             return;
         }
         if (window.scrollY === 0) {
-            navbarMarketingTransparentFixed.classList.add('navbar-scrolled')
+            navbarMarketingTransparentFixed.classList.remove('navbar-scrolled')
         } else {
             navbarMarketingTransparentFixed.classList.add('navbar-scrolled')
         }
