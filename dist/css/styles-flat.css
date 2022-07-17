@@ -20300,3 +20300,12 @@ section {
     border-right: 0.0625rem solid #e0e5ec;
   }
 }
+
+.scrollclass {
+  position: relative;
+  padding-top:9px;
+}
+
+.imgntext {
+  position: absolute;
+}
