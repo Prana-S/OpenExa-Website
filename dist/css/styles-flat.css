@@ -11064,6 +11064,11 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-blue-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-custom {
+  --bs-bg-opacity: 1;
+  background-color: #304260 !important;
+}
+
 .bg-indigo {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-indigo-rgb), var(--bs-bg-opacity)) !important;
